@@ -1,0 +1,24 @@
+{
+  "name": "@rblx-js/viewer",
+  "version": "1.0.0",
+  "description": "A roblox studio emulator using three.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "roblox",
+    "viewer",
+    "studio",
+    "emulator",
+    "three.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.30.2",
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "typescript": "^6.0.2"
+  }
+}
